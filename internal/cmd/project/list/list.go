@@ -3,10 +3,10 @@ package list
 import (
 	"github.com/spf13/cobra"
 
-	"github.com/ankitpokhrel/jira-cli/api"
-	"github.com/ankitpokhrel/jira-cli/internal/cmdutil"
-	"github.com/ankitpokhrel/jira-cli/internal/view"
-	"github.com/ankitpokhrel/jira-cli/pkg/jira"
+	"github.com/shaunduncan/jira-cli/api"
+	"github.com/shaunduncan/jira-cli/internal/cmdutil"
+	"github.com/shaunduncan/jira-cli/internal/view"
+	"github.com/shaunduncan/jira-cli/pkg/jira"
 )
 
 // NewCmdList is a list command.

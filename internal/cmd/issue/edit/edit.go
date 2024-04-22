@@ -8,14 +8,14 @@ import (
 	"github.com/spf13/cobra"
 	"github.com/spf13/viper"
 
-	"github.com/ankitpokhrel/jira-cli/api"
-	"github.com/ankitpokhrel/jira-cli/internal/cmdcommon"
-	"github.com/ankitpokhrel/jira-cli/internal/cmdutil"
-	"github.com/ankitpokhrel/jira-cli/internal/query"
-	"github.com/ankitpokhrel/jira-cli/pkg/adf"
-	"github.com/ankitpokhrel/jira-cli/pkg/jira"
-	"github.com/ankitpokhrel/jira-cli/pkg/md"
-	"github.com/ankitpokhrel/jira-cli/pkg/surveyext"
+	"github.com/shaunduncan/jira-cli/api"
+	"github.com/shaunduncan/jira-cli/internal/cmdcommon"
+	"github.com/shaunduncan/jira-cli/internal/cmdutil"
+	"github.com/shaunduncan/jira-cli/internal/query"
+	"github.com/shaunduncan/jira-cli/pkg/adf"
+	"github.com/shaunduncan/jira-cli/pkg/jira"
+	"github.com/shaunduncan/jira-cli/pkg/md"
+	"github.com/shaunduncan/jira-cli/pkg/surveyext"
 )
 
 const (

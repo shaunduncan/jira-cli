@@ -6,7 +6,7 @@ import (
 
 	"github.com/spf13/cobra"
 
-	v "github.com/ankitpokhrel/jira-cli/internal/version"
+	v "github.com/shaunduncan/jira-cli/internal/version"
 )
 
 // NewCmdVersion is a version command.

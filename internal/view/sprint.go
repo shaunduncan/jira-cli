@@ -8,11 +8,11 @@ import (
 	"text/tabwriter"
 	"time"
 
-	"github.com/ankitpokhrel/jira-cli/api"
-	"github.com/ankitpokhrel/jira-cli/internal/cmdutil"
-	"github.com/ankitpokhrel/jira-cli/pkg/jira"
-	"github.com/ankitpokhrel/jira-cli/pkg/jira/filter/issue"
-	"github.com/ankitpokhrel/jira-cli/pkg/tui"
+	"github.com/shaunduncan/jira-cli/api"
+	"github.com/shaunduncan/jira-cli/internal/cmdutil"
+	"github.com/shaunduncan/jira-cli/pkg/jira"
+	"github.com/shaunduncan/jira-cli/pkg/jira/filter/issue"
+	"github.com/shaunduncan/jira-cli/pkg/tui"
 )
 
 // SprintIssueFunc provides issues in the sprint.
